@@ -1,5 +1,5 @@
 # Multi-Class Image Classification using COCO Dataset
-This project provides a multi-class image classification model using the COCO dataset 2017. The dataset contains images with object annotations for 80 different classes. Initially, classical machine learning algorithms were attempted, but then the Keras API was used to build a convolutional neural network (CNN) to improve accuracy. After optimization, the project achieved an accuracy of up to 75%.
+This project provides a multi-class image classification model using the COCO dataset 2017. The dataset contains images with object annotations for 80 different classes. Initially, classical machine learning algorithms were attempted, but then the Keras API was used to build a convolutional neural network (CNN) to improve accuracy. After optimization, the project achieved an accuracy of up to 82%.
 
 ## Installation
 Before using this project, fork this repository from GitHub into your Google Colab account. It is also recommended to set the GPU as the default runtime environment as it is required for training our model using the CNN architecture.
