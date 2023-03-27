@@ -28,8 +28,8 @@ The ImageClassifier class is used to classify individual images using classical 
 * preprocess_image: preprocesses an image for classification.
 * classify_image: classifies an image using a pre-trained model.
 
-### Image Classifier Class via CNN Architectures 🏃‍♂️🥇
-The ImageClassifier class is used to classify objects in a dataset using CNN architectures. It has the following methods:
+### ObjectClassifier Class via CNN Architectures 🏃‍♂️🥇
+The ObjectClassifier class is used to classify objects in a dataset using CNN architectures. It has the following methods:
 
 * load_and_preprocess_data: loads and preprocesses the data from the dataset folder.
 * create_model: creates the CNN model architecture using Keras.
